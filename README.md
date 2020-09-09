@@ -1,4 +1,4 @@
-# Greetings! My name is xKie_ran!
+# Greetings! My name is Slushie!
 
 - I’m currently a Co-Founder & Administrator @ Autent Development
 - I also make discord bots.. sometimes..
