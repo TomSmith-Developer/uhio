@@ -1,6 +1,6 @@
 # Greetings! My name is Slushie!
 
-- I’m currently a Co-Founder, Administrator & Community Manager @ Autent Development (@Autent)
+- I’m currently a Co-Founder, Administrator & Community Manager @ Autent Development
 - I also make discord bots.. sometimes..
 
 
