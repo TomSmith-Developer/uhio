@@ -5,3 +5,4 @@
 
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=SIushie&theme=algolia)
+![Spotify Status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/673477059904929802)
