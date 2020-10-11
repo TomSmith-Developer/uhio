@@ -4,7 +4,7 @@
 - I also make discord bots.. sometimes..
 
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=SIushie&theme=algolia)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=uhio&theme=algolia)
 
 
 ![Spotify Status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/673477059904929802)
