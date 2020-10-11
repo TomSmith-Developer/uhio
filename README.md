@@ -8,3 +8,4 @@
 
 
 ![Spotify Status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/673477059904929802)
+![Page Visits](https://komarev.com/ghpvc/?username=uhio&color=orange)
